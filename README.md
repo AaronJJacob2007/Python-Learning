@@ -1,26 +1,25 @@
 # Python Learning
 
-This repository contains Python programs and exercises completed while learning Python fundamentals.
+Python exercises collected while learning the language. The folders group small examples by topic, making it easy to pick one file and experiment with it.
 
-## Topics Covered
+## What's in the repository
 
-* Variables and Data Types
-* Conditional Statements
-* Loops
-* Functions
-* Lists
-* Dictionaries
-* Strings
-* Basic Problem Solving
+| Folder | Topics |
+| --- | --- |
+| `Basics/` | Variables, input, strings, conversions and arithmetic |
+| `Functions/` | Function exercises |
+| `Classes/` | Classes and objects |
+| `Exception/` | Exception handling |
+| `Loops,Lists,Tuples,Dictionaries/` | Loops and collections |
+| `RandomModule/` | Random module exercises |
+| `ecommerce/` | A small package exercise |
 
-## Purpose
+## Run an exercise
 
-The goal of this repository is to document my Python learning journey and strengthen my programming fundamentals through regular practice.
+With Python installed, run a file from the repository root:
 
-## Future Plans
+```sh
+python Basics/Variable.py
+```
 
-* Build more Python projects
-* Learn Data Structures and Algorithms
-* Explore Artificial Intelligence and Machine Learning
-* Develop an AI-Based Study Assistant project
-
+Most files are independent examples. Some ask for input in the terminal.
